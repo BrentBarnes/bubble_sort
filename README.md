@@ -8,10 +8,9 @@ This method sorts an array of values. It is one of the simpler ways to sort thin
 
 "Build a method #bubble_sort that takes an array and returns a sorted array. It must use the bubble sort methodology"
 
-![Bubble Sort Example](bubble_sort.gif)
 
 ### How It Works
-
+![Bubble Sort Example](bubble_sort.gif)
 1. Each number of the array is compared to the number to the right of it.
 2. If the original number is larger than its neighor, they switch spots.
 3. It then moves on to the next number in the array and repeats the same process.
